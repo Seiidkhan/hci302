@@ -1,4 +1,4 @@
-hci302 - HCI Class lab actvities & examples repository
+HCI Class lab activities & examples repository
 ======
 
 In this repo you get initial files for your projects. As well you are going to learn basics of HTML5, CSS3, JavaScript, Php/MySql.
